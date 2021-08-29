@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @frances-m
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning React & Redux (while practicing my fundamentals)
+- 💞️ I’m looking to collaborate on web apps and anything else I can help out with!
+- 📫 You can reach me at fr.ncesm@gmail.com
